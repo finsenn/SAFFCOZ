@@ -19,3 +19,6 @@ Custom Styling: Uses Google Fonts and CSS for a modern, minimalist look.
 HTML5: Structure of the website.
 CSS3: Styling and layout.
 JavaScript: Form validation and interactivity.
+
+# Screenshots
+
