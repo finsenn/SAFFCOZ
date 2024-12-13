@@ -21,7 +21,7 @@ CSS3: Styling and layout.
 JavaScript: Form validation and interactivity.
 
 # Screenshots
-![screenshot](ImageFolder/HOME%PAGE.png)
+![screenshot](Imagefolder/HOME PAGE.png)
 ![screenshot](imageFolder/homepage.png)
 ![screenshot](imageFolder/homepage.png)
 ![screenshot](imageFolder/homepage.png)
