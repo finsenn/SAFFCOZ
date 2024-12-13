@@ -22,6 +22,8 @@ JavaScript: Form validation and interactivity.
 
 # Screenshots
 ![screenshot](Imagefolder/HOME%20PAGE.png)
-![screenshot](imageFolder/homepage.png)
-![screenshot](imageFolder/homepage.png)
-![screenshot](imageFolder/homepage.png)
+![screenshot](Imagefolder/Products%20Page.png)
+![screenshot](Imagefolder/Individual%20Product%20Page.png)
+![screenshot](Imagefolder/About%20Us%20Page.png)
+![screenshot](Imagefolder/Stores%20Page.png)
+![screenshot](Imagefolder/Contact%20Us%20Page.png)
